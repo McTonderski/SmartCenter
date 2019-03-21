@@ -1,2 +1,0 @@
-# SmartCenter
-Cyka Blyat
