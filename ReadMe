@@ -1,0 +1,42 @@
+So in this section we are going to create User interface of out Smart Home center. 
+
+Firstly this app will only be available for windows, but there is a way to put c++ into android devices.
+
+Basics:
+What does UI needs to be able to do.
+
+User must be able to control all the IOT devices and by control i mean:
+-turning it on and off,
+-scheduling it's work(setting time when device turns on and off)
+-read data from sensors
+-download data from db and displaying it on a graph on any data viusalisation solutioin you guys think it's the most suitable,
+-app should be able to add and pair a new device, 
+-Graphic design, not just a based one built in.
+
+Database:
+
+stores IOT devices information: type, sensor types, functionality
+stores every user input,
+stores data from sensors,
+stroes schedule for IOT devices
+
+Server:
+
+So server is the brain of the action. It needs to handle multiple connections from all of the devices(however there is a way but about that later maybe you guys fiugre it out)
+Server than send data to a database
+handles Desktop app request,
+sends signals to devices.
+Details needs to be planned by teams
+
+IOT:
+
+This section will create devices for the projects. Starting from boards and software for them. 
+Me and Filip Pawelec are going to handle it. 
+
+That's it 
+I want each team to have a talk albout any ideas that they have about the topic.
+I want teams to create on git folder where they will create a file in which they describe theirs idea.
+
+that's it for the week. 
+
+Cheers Chorąży
